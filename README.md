@@ -1,1 +1,1 @@
-# BookSpot-yolov8-
+# BookSpot-yolov8
