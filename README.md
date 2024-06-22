@@ -22,6 +22,9 @@ pip install -r requirements.txt
 ```
 
 
+### Info
+The `1050ti_BookSpot.pt` is the trained Yolov8 model that was trained on a 1050ti for 20 epochs.
+
 ### Usage
 To start detecting books in real-time, run the following command:
 
