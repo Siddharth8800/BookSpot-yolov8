@@ -15,7 +15,7 @@ This project is designed to identify books in various environments, making it an
 To get started with BookSpot-yolov8, clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/BookSpot-yolov8.git
+git clone https://github.com/siddharth8800/BookSpot-yolov8.git
 
 
 pip install -r requirements.txt
